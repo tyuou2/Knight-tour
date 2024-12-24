@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/1.jpg</file>
+        <file>image/white_horse.png</file>
+        <file>image/cuo_hao.png</file>
+        <file>image/min.png</file>
+        <file>image/icons_horse.gif</file>
+        <file>image/h1.png</file>
+        <file>my_sh.qss</file>
+        <file>image/icons8_title_4.png</file>
+        <file>image/ice-2817112_640.jpg</file>
+    </qresource>
+</RCC>

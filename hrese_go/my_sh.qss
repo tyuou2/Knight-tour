@@ -1,0 +1,167 @@
+/*begin*/
+
+QPushButton#begin {
+    border-radius:100px;
+    border: 1px solid rgb(153, 225, 229);
+    border-radius:8px;
+    color: rgba(0,0,0, 255);
+    background-color: transparent;
+    font-size: 16pt; /* 设置字体大小 */
+    font-family: "华文行楷"; /* 设置字体 */
+}
+/* 鼠标悬停状态 */
+QPushButton#begin:hover {
+    background-color: rgb(126,255,219); /* 设置鼠标悬停时的背景颜色 */
+    color: white; /* 设置鼠标悬停时的文本颜色 */
+}
+/* 按钮按下状态 */
+QPushButton#begin:pressed {
+    background-color: transparent; /* 设置按钮按下时的背景颜色 */
+    color: rgb(126,255,219);
+}
+/*rebegin*/
+QPushButton#rebegin {
+    border-radius:100px;
+    border: 1px solid rgb(153, 225, 229);
+    border-radius:8px;
+    color: rgba(0,0,0, 255);
+    background-color: transparent;
+    font-size: 16pt; /* 设置字体大小*/
+    font-family: "华文行楷"; /* 设置字体 */
+}
+/* 鼠标悬停状态 */
+QPushButton#rebegin:hover {
+    background-color: rgb(126,255,219); /* 设置鼠标悬停时的背景颜色 */
+    color: white; /* 设置鼠标悬停时的文本颜色 */
+}
+
+/* 按钮按下状态 */
+QPushButton#rebegin:pressed {
+    background-color: transparent; /* 设置按钮按下时的背景颜色 */
+    color: rgb(126,255,219);
+}
+/*title_text*/
+QLabel#title_text {
+    border-radius:100px;
+    color: rgba(0,0,0, 255);
+    background-color: transparent;
+    font-size: 12pt; /* 设置字体大小 */
+    font-family: "华文琥珀"; /* 设置字体 */
+}
+/*re1*/
+QRadioButton#re1 {
+    border-radius:100px;
+    border: 1px solid rgb(153, 225, 229);
+    border-radius:8px;
+    color: rgba(0,0,0, 255);
+    background-color: transparent;
+    font-size: 12pt; /* 设置字体大小 */
+    font-family: "华文行楷"; /* 设置字体 */
+}
+/*re2*/
+QRadioButton#re2 {
+    border-radius:100px;
+    border: 1px solid rgb(153, 225, 229);
+    border-radius:8px;
+    color: rgba(0,0,0, 255);
+    background-color: transparent;
+    font-size: 12pt; /* 设置字体大小 */
+    font-family: "华文行楷"; /* 设置字体 */
+
+}
+/*uesr*/
+QLabel#uesr {
+    border-radius:100px;
+    color: rgba(0,0,0, 255);
+    background-color: transparent;
+    font-size: 12pt; /* 设置字体大小为12点 */
+    font-family: "宋体"; /* 设置字体 */
+}
+
+/*pass*/
+QLabel#pass {
+    border-radius:100px;
+    color: rgba(0,0,0, 255);
+    background-color: transparent;
+    font-size: 12pt; /* 设置字体大小为12点 */
+    font-family: "宋体"; /* 设置字体 */
+}
+
+/*title_login*/
+QLabel#title_login {
+    border-radius:100px;
+    color: rgba(0,0,0, 255);
+    background-color: transparent;
+    font-size: 20pt; /* 设置字体大小为12点 */
+    font-family: "华文行楷"; /* 设置字体 */
+}
+
+
+/*login_2*/
+
+
+QPushButton#login_2 {
+    border-radius:100px;
+    border: 1px solid rgb(153, 225, 229);
+    border-radius:8px;
+    color: rgba(0,0,0, 255);
+    background-color: transparent;
+    font-size: 16pt; /* 设置字体大小 */
+    font-family: "华文行楷"; /* 设置字体 */
+}
+/* 鼠标悬停状态 */
+QPushButton#login_2:hover {
+    background-color: rgb(126,255,219); /* 设置鼠标悬停时的背景颜色 */
+    color: white; /* 设置鼠标悬停时的文本颜色 */
+}
+
+/* 按钮按下状态 */
+QPushButton#login_2:pressed {
+    background-color: transparent; /* 设置按钮按下时的背景颜色 */
+    color: rgb(126,255,219);
+}
+
+
+/*test*/
+QPushButton#test {
+    border-radius:100px;
+    border: 1px solid rgb(153, 225, 229);
+    border-radius:8px;
+    color: rgba(0,0,0, 255);
+    background-color: transparent;
+    font-size: 12pt; /* 设置字体大小 */
+    font-family: "华文行楷"; /* 设置字体 */
+}
+/* 鼠标悬停状态 */
+QPushButton#test:hover {
+    background-color: rgb(126,255,219); /* 设置鼠标悬停时的背景颜色 */
+    color: white; /* 设置鼠标悬停时的文本颜色 */
+}
+
+/* 按钮按下状态 */
+QPushButton#test:pressed {
+    background-color: transparent; /* 设置按钮按下时的背景颜色 */
+    color: rgb(126,255,219);
+}
+
+
+/*register_2*/
+QPushButton#register_2 {
+    border-radius:100px;
+    border: 1px solid rgb(153, 225, 229);
+    border-radius:8px;
+    color: rgba(0,0,0, 255);
+    background-color: transparent;
+    font-size: 16pt; /* 设置字体大小 */
+    font-family: "华文行楷"; /* 设置字体 */
+}
+/* 鼠标悬停状态 */
+QPushButton#register_2:hover {
+    background-color: rgb(126,255,219); /* 设置鼠标悬停时的背景颜色 */
+    color: white; /* 设置鼠标悬停时的文本颜色 */
+}
+/* 按钮按下状态 */
+QPushButton#register_2:pressed {
+    background-color: transparent; /* 设置按钮按下时的背景颜色 */
+    color: rgb(126,255,219);
+}
